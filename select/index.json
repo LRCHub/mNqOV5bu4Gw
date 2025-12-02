@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THE MOMENT",
+  "base_artist": "AI",
+  "createdAt": "2025-12-02T09:20:16.272267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heat Of The Moment",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Heat_Of_The_Moment_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spur of the Moment",
+      "artist": "Ludacris feat. DJ Quik & Kimmi J.",
+      "has_synced": true,
+      "path": "select/02_Spur_of_the_Moment_Ludacris_feat._DJ_Quik_&_Kimmi_J..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spur of the Moment (feat. DJ Quik and Kimmi J.)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/03_Spur_of_the_Moment_(feat._DJ_Quik_and_Kimmi_J.)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sing For The Moment",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Sing_For_The_Moment_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Moment",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/05_The_Moment_KSI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Moment",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/06_The_Moment_KSI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In The Heat Of The Moment",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/07_In_The_Heat_Of_The_Moment_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In the Heat of the Moment",
+      "artist": "Noel Gallagher’s High Flying Birds",
+      "has_synced": true,
+      "path": "select/08_In_the_Heat_of_the_Moment_Noel_Gallagher’s_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In The Heat Of The Moment (Toy Drum Remix) - Remix",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": false,
+      "path": "select/09_In_The_Heat_Of_The_Moment_(Toy_Drum_Remix)_-_Remix_Noel_Gallagher's_High_Flying_Birds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In the Heat of the Moment (Toydrum remix)",
+      "artist": "Noel Gallagher’s High Flying Birds",
+      "has_synced": false,
+      "path": "select/10_In_the_Heat_of_the_Moment_(Toydrum_remix)_Noel_Gallagher’s_High_Flying_Birds.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heat of the Moment",
+      "artist": "Tink",
+      "has_synced": true,
+      "path": "select/11_Heat_of_the_Moment_Tink.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only the Moment",
+      "artist": "Marc Almond",
+      "has_synced": true,
+      "path": "select/12_Only_the_Moment_Marc_Almond.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Moment I Knew",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_The_Moment_I_Knew_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Moment I Feared",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/14_The_Moment_I_Feared_Tricky.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After the Moment",
+      "artist": "Princess Chelsea",
+      "has_synced": true,
+      "path": "select/15_After_the_Moment_Princess_Chelsea.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back in the Moment",
+      "artist": "Angelzoom",
+      "has_synced": true,
+      "path": "select/16_Back_in_the_Moment_Angelzoom.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back in the Moment (alternative radio version)",
+      "artist": "Angelzoom",
+      "has_synced": false,
+      "path": "select/17_Back_in_the_Moment_(alternative_radio_version)_Angelzoom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE MOMENT",
+      "artist": "AI, ¥ellow Bucks",
+      "has_synced": false,
+      "path": "select/pl_01_THE_MOMENT_AI,_¥ellow_Bucks.txt"
+    }
+  ]
+}
